@@ -2,38 +2,53 @@
   "feedback": [
     {
       "id": 1,
-      "rating": 10,
-      "text": "This is feedback item 1 coming from the backend"
+      "rating": 9,
+      "text": "The service was outstanding, and the food was delightful. The atmosphere was cozy, making for a truly enjoyable dining experience."
     },
     {
       "id": 2,
       "rating": 8,
-      "text": "This is feedback item 2 coming from the backend"
+      "text": "Friendly staff and top-notch coffee. The only downside is the slightly high price, but it’s worth trying out."
     },
     {
       "id": 3,
-      "rating": 8,
-      "text": "This is feedback item 3 coming from the backend"
+      "rating": 7,
+      "text": "A wide variety of books, though the layout can be a bit chaotic. The staff is helpful and can quickly find what you need."
     },
     {
-      "rating": "9",
-      "text": "New feedback item",
-      "id": 4
+      "id": 4,
+      "rating": "6",
+      "text": "Plenty of clothing options, but the quality is hit or miss. The sales associates can sometimes seem impatient, and the service attitude could be improved."
     },
     {
+      "id": 5,
       "rating": 5,
-      "text": "This is a text from postman",
-      "id": 6
+      "text": "Well-stocked, but frequently out of certain items. The checkout process needs to be faster, as the lines are often too long."
     },
     {
-      "text": "This is a test",
-      "rating": 6,
-      "id": 7
+      "id": 6,
+      "rating": 10,
+      "text": "The bread is always fresh and delicious, and the service is warm and welcoming. I feel at home every time I visit. Highly recommended!"
     },
     {
-      "text": "Testing l;askl;dk;lsadwqeqwe updated",
-      "rating": 5,
-      "id": 8
+      "id": 7,
+      "text": "Fast service, but overpriced. The staff didn’t explain the service details clearly, leaving me dissatisfied.",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "text": "The facility is well-equipped and clean. The trainers are professional, though it can get crowded during peak hours, resulting in a wait for equipment.",
+      "rating": 8
+    },
+    {
+      "id": 9,
+      "text": "The stylists are highly skilled, and the customer service is excellent. Reasonably priced and a comfortable environment. Definitely recommend.",
+      "rating": 9
+    },
+    {
+      "id": 10,
+      "text": "Quick repairs, but the phone had issues again shortly after. The staff was indifferent and unwilling to provide warranty services.",
+      "rating": 3
     }
   ]
 }
